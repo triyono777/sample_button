@@ -9,7 +9,8 @@ abstract class CustomStyle {
         ..border(all: 3, color: Colors.lightBlue[900])
         ..elevation(5)
         ..padding(horizontal: 20, vertical: 10)
-        ..rotate(-10);
+        ..rotate(-5)
+        ..ripple(true, splashColor: Colors.yellow);
 
   static TxtStyle myTxtStyle = TxtStyle()
     ..fontSize(30)
