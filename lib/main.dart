@@ -1,3 +1,5 @@
+import 'package:divisi_style/custom_button.dart';
+import 'package:divisi_style/style/custom_style.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -17,6 +19,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text('halo button'),
+              CustomButton(CustomStyle.mybuttonStyle),
             ],
           ),
         ),
