@@ -1,17 +1,11 @@
 # divisi_style
 
-A new Flutter project.
+Membuat style sendiri
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tutorial ini dari chanel Erico Darmawan
 
-A few resources to get you started if this is your first Flutter project:
+- [FLUTTER 62. Division (Styling Widget Inspired by CSS)](https://www.youtube.com/watch?v=Lulk58-a8IM)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sample_button
