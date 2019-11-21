@@ -8,10 +8,17 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Sample Style'),
+          title: Text('Sample Button Style'),
+          backgroundColor: Colors.purpleAccent[200],
         ),
+        backgroundColor: Colors.grey[200],
         body: Center(
-          child: Text('halo button'),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text('halo button'),
+            ],
+          ),
         ),
       ),
     );
